@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  
+}
+
+#name {
+  background-color: aqua;
+  margin: 10px;
+}
+
+#bio {
+  background-color: cadetblue;
+  margin: 10px;
+}
+
+#date {
+  background-color: coral;
+  margin: 10px;
+  
+}
+
