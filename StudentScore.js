@@ -5,7 +5,7 @@ const StudentScore = (props) => {
     return (
         <div>
             <h2 id='date'>
-                Date: {props.studentScore.date}
+                Date: {props.studentScore.date}<> </>
                 Score: {props.studentScore.score}
             </h2>
 
